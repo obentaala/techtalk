@@ -1,6 +1,7 @@
 
 :root {
     --colorColorOverlay: #0000004d;    
+    --colorGrayBlue100: #6e7681;    
     --colorGrayBlue200: #e0e3e6;    
     --colorGrayBlue300: #c2c7ce;    
     --colorGrayBlue400: #a4acb6;    
@@ -72,7 +73,7 @@
     --colorGreen1000: #133527;    
     --colorTeal100: #e3fafc;    
     --colorTeal200: #c1f0f5;    
-    --colorTeal300: #8bdbe2;    
+    --colorTeal300: #8bdbe5;    
     --colorTeal400: #60c6d2;    
     --colorTeal500: #37b4c3;    
     --colorTeal600: #1d9aaa;    
@@ -182,9 +183,6 @@
     --colorRedTail800: #b91c1c;    
     --colorRedTail900: #991b1b;    
     --colorRedTail1000: #7f1d1d;    
-    --colorNegative700: var(--colorRedTail700);    
-    --colorActionCriticalHover: var(--colorNegative700);    
-    --colorGrayBlue100: var(--colorActionCriticalHover);    
     --colorBgCanvas: var(--colorMonoWhite);    
     --colorBgDefault: var(--colorMonoWhite);    
     --colorNeutralLight400: var(--colorGrayTrue400);    
@@ -252,6 +250,8 @@
     --colorSecondary400: var(--colorYellow400);    
     --colorActionSecondaryPressed: var(--colorSecondary400);    
     --colorActionCriticalDefault: var(--colorNegative600);    
+    --colorNegative700: var(--colorRedTail700);    
+    --colorActionCriticalHover: var(--colorNegative700);    
     --colorNegative800: var(--colorRedTail800);    
     --colorActionCriticalPressed: var(--colorNegative800);    
     --colorDecorateNeutral1: var(--colorNeutralLight500);    
@@ -310,7 +310,7 @@
     --colorWarning300: var(--colorOrange300);    
     --colorWarning400: var(--colorOrange400);    
     --colorWarning500: var(--colorOrange500);    
-    --colorWarning700: var(--colorInformation600);    
+    --colorWarning700: var(--colorOrange700);    
     --colorWarning900: var(--colorOrange900);    
     --colorWarning1000: var(--colorOrange1000);    
     --colorInformation100: var(--colorBlueDark100);    
