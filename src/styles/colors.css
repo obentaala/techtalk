@@ -310,7 +310,7 @@
     --colorWarning300: var(--colorOrange300);    
     --colorWarning400: var(--colorOrange400);    
     --colorWarning500: var(--colorOrange500);    
-    --colorWarning700: var(--colorOrange700);    
+    --colorWarning700: var(--colorInformation600);    
     --colorWarning900: var(--colorOrange900);    
     --colorWarning1000: var(--colorOrange1000);    
     --colorInformation100: var(--colorBlueDark100);    
