@@ -5,9 +5,9 @@
               font-family: "Inter";
               font-style: normal;
               font-weight: 400;
-              font-size: var(--measureFontSizeFontSizeFontsize6);
+              font-size: var(--measureFontSizeFontSizeFontsize1);
               line-height: var(--measureLineHeightLineHeightLineheights0);
-              letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
+              letter-spacing: 0px;
               text-indent: 0px;
               text-transform: uppercase;
               margin-bottom: var(--measureParagraphSpacingParagraphSpacingParagraphspacing0);
@@ -130,6 +130,5 @@
               line-height: var(--measureLineHeightLineHeightLineheights3);
               letter-spacing: var(--measureLetterSpacingLetterSpacingLetterspacing0);
               text-indent: 0px;
-              text-transform: uppercase;
               margin-bottom: var(--measureParagraphSpacingParagraphSpacingParagraphspacing0);
               }
